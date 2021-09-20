@@ -1,0 +1,46 @@
+# The list of all links between articles.
+# Article names are URL-encoded; e.g., in Java they can be decoded using java.net.URLDecoder.decode(articleName, "UTF-8").
+# FORMAT:   linkSource   linkTarget
+#
+# When publishing on this data set, please cite:
+# (1) Robert West and Jure Leskovec:
+#     Human Wayfinding in Information Networks.
+#     21st International World Wide Web Conference (WWW), 2012.
+# (2) Robert West, Joelle Pineau, and Doina Precup:
+#     Wikispeedia: An Online Game for Inferring Semantic Distances between Concepts.
+#     21st International Joint Conference on Artificial Intelligence (IJCAI), 2009.
+
+%C3%81ed%C3%A1n_mac_Gabr%C3%A1in
+%C3%85land
+20th_century
+Baltic_Sea
+Bede
+Columba
+Crimean_War
+Currency
+D%C3%A1l_Riata
+Euro
+European_Union
+Finland
+Great_Britain
+Ireland
+Isle_of_Man
+League_of_Nations
+List_of_countries_by_system_of_government
+Monarchy
+Nationality
+Orkney
+Parliamentary_system
+Picts
+Police
+Russia
+Scotland
+Stockholm
+Sweden
+Time_zone
+Tourism
+United_Kingdom
+Wales
+World_War_II
+test1
+test2

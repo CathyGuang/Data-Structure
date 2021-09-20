@@ -1,0 +1,1 @@
+For this assignment, I consulted Yumo and Katrina with the check syntax method in Program class. I also shared my thoughts with Wenlai of how I wrote my code for checking syntax. Wenlai helped me with how to skip comments in syntax checking. 

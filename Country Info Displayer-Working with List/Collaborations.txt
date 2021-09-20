@@ -1,0 +1,1 @@
+We referred to the JavaDocs and the example code from HW1 (CommandLine.java and LineReader.java).

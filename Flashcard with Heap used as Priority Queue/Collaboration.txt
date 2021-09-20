@@ -1,0 +1,2 @@
+Collaboration
+We consulted how to poll correctly with Anna and found out the problem was caused by updating numItems wrongly. We also discussed about how to save the flashcards without changing the original queue with Yumo, Zhixing, and Jimmy. Thanks to their help!

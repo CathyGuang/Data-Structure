@@ -1,0 +1,47 @@
+# The list of all links between articles.
+# Article names are URL-encoded; e.g., in Java they can be decoded using java.net.URLDecoder.decode(articleName, "UTF-8").
+# FORMAT:   linkSource   linkTarget
+#
+# When publishing on this data set, please cite:
+# (1) Robert West and Jure Leskovec:
+#     Human Wayfinding in Information Networks.
+#     21st International World Wide Web Conference (WWW), 2012.
+# (2) Robert West, Joelle Pineau, and Doina Precup:
+#     Wikispeedia: An Online Game for Inferring Semantic Distances between Concepts.
+#     21st International Joint Conference on Artificial Intelligence (IJCAI), 2009.
+# Length from 20th_century to League_of_Nations is 4.
+
+%C3%81ed%C3%A1n_mac_Gabr%C3%A1in	Bede
+%C3%81ed%C3%A1n_mac_Gabr%C3%A1in	Columba
+%C3%81ed%C3%A1n_mac_Gabr%C3%A1in	D%C3%A1l_Riata
+%C3%81ed%C3%A1n_mac_Gabr%C3%A1in	Great_Britain
+%C3%81ed%C3%A1n_mac_Gabr%C3%A1in	Ireland
+%C3%81ed%C3%A1n_mac_Gabr%C3%A1in	Isle_of_Man
+%C3%81ed%C3%A1n_mac_Gabr%C3%A1in	Monarchy
+%C3%81ed%C3%A1n_mac_Gabr%C3%A1in	Orkney
+%C3%81ed%C3%A1n_mac_Gabr%C3%A1in	Picts
+%C3%81ed%C3%A1n_mac_Gabr%C3%A1in	Scotland
+%C3%81ed%C3%A1n_mac_Gabr%C3%A1in	Wales
+%C3%85land	20th_century
+%C3%85land	Baltic_Sea
+%C3%85land	Crimean_War
+%C3%85land	Currency
+%C3%85land	Euro
+%C3%85land	European_Union
+%C3%85land	Finland
+%C3%85land	League_of_Nations
+%C3%85land	List_of_countries_by_system_of_government
+%C3%85land	Nationality
+%C3%85land	Parliamentary_system
+%C3%85land	Police
+%C3%85land	Russia
+%C3%85land	Stockholm
+%C3%85land	Sweden
+%C3%85land	Time_zone
+%C3%85land	Tourism
+%C3%85land	United_Kingdom
+%C3%85land	World_War_II
+20th_century	test1
+test1	20th_century
+test1	test2
+test2	League_of_Nations

@@ -1,0 +1,1 @@
+We chose to use Cathy and Bryan's base code in HW04 to start on this assignment. We asked the lab assistant on the third floor for help. We also chatted with Yumo, Ryan, Katrina, and Jimmy for the resort method. Also thanks to Anna's help during office hour and our individual appointment, which helped parse out our main problems and solutions.

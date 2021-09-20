@@ -1,0 +1,2 @@
+Collaborations
+Yumo and Carl helped us understand the HTML output file. We also looked at textbook for resouces about the PrintWriter class. Brian helped us to get rid of our root node. We also thank Anna for helping us update our local word when traversing the whole tree.
